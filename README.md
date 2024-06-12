@@ -1,6 +1,6 @@
 # YouTube Clone
 
-This project is a basic clone of YouTube's interface, created while learning CSS and HTML.
+This project is a basic static clone of YouTube's interface, created while learning CSS and HTML.
 
 ## Features
 - Responsive layout that mimics YouTube's homepage.
