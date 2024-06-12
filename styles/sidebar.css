@@ -5,9 +5,11 @@
   top: 55px;
   background-color: white;
   width: 72px;
+  z-index: 200;
+  padding-top: 5px;
 }
 .sidebar-link{
-  height: 76px;
+  height: 74px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,6 +21,7 @@
 }
 .sidebar-link img{
   height: 25px;
+  margin-bottom: 4px;
     
 }
 .sidebar-link div{
