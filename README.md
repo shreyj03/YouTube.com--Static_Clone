@@ -12,3 +12,5 @@ This project is a basic clone of YouTube's interface, created while learning CSS
 - **HTML5:** For structuring the web pages.
 - **CSS3:** For styling the web pages, including Flexbox and Grid for layout.
 
+## Live Demo
+You can view a live demo of the project here: [YouTube Clone](https://shreyj03.github.io/YouTube.com--Static_Clone/)
